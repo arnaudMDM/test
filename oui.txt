@@ -5,3 +5,4 @@ quatre
 cinq
 six
 gt
+fr
