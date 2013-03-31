@@ -1,9 +1,0 @@
-ceci est un premier essai.
-ceci est un deuxième essai.
-<<<<<<< HEAD
-ceci est un troisième esai.
-de
-fr
-=======
-ceci est un troisième esai.
->>>>>>> parent of 81259c9... un
