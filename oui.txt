@@ -1,5 +1,9 @@
 un
 deux
+<<<<<<< HEAD
 trois
 quatre
 cinq
+=======
+trois
+>>>>>>> parent of 2415c53... quatre
